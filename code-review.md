@@ -14,7 +14,7 @@
 
     The detailed written analysis, which outlines the specific files reviewed and the enhancement plan, can be accessed below. This document covers the initial findings regarding password security, data handling efficiency, and error logging.
 
-    [**Download the Code Review Document (PDF)**](./assets/documents[Code Review PDF.pdf](https://github.com/user-attachments/files/24998678/Code.Review.PDF.pdf)
+    [**Download the Code Review Document (PDF)**](./assets/documents[Code Review PDF.pdf](https://github.com/Jmorgansings/Inv-Alert-Capstone/blob/main/Code%20Review%20PDF.pdf)
     
     ---
 
