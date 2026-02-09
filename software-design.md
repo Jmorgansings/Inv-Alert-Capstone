@@ -43,4 +43,4 @@ The most insightful moment was seeing the "Error adding item" message appear in 
 
 The full, enhanced source code for the "Inv-Alert" application, including the improved `DatabaseHelper.kt`, is available in the project's GitHub repository.
 
-[**View Project on GitHub**](https://github.com/Jmorgansings/Inv-Alert-Capstone)
+[**View Project on GitHub**](jasminemorganinventorymanagement4.zip)
