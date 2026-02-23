@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Main item for the Sort action -->
+    <item android:id="@+id/action_sort" android:title="Sort" android:icon="@drawable/ic_sort"
+        app:showAsAction="ifRoom">
+
+        <!-- Sub-menu for the sorting options -->
+        <menu>
+            <item android:id="@+id/sort_by_name" android:title="Sort by Name" />
+            <item android:id="@+id/sort_by_quantity" android:title="Sort by Quantity" />
+        </menu>
+    </item>
+
+    <!-- Item for the Change Password action -->
+    <item android:id="@+id/action_change_password" android:title="Change Password"
+        app:showAsAction="never" />
+
+</menu>
