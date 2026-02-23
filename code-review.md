@@ -22,9 +22,8 @@
 
     The following video provides a walkthrough of the original codebase, demonstrating the identified issues in a live environment and discussing the proposed enhancement strategy.
 
-    [**Watch the Code Review Video on YouTube/Google Drive**](https://youtu.be/QzbrLguUBxw)
-
-    *https://youtu.be/QzbrLguUBxw*
+    [**Watch the Code Review Video on YouTube/Google Drive**]
+    [*https://youtu.be/QzbrLguUBxw*](https://youtu.be/QzbrLguUBxw?si=TtT5sGp3Z8sZ8ZD9)
 
       
  
